@@ -14,6 +14,7 @@ The task is to accept Pull Requests based on a unique theme for a top ten list (
 7. Udon
 8. Soba
 9. Tempura
-10. Tonkatsu
-11. Okonomiyaki
-12. Gohan
+10. Gohan
+11. Tonkatsu
+12. Okonomiyaki
+
